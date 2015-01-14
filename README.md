@@ -1,0 +1,2 @@
+# sejypeli
+Peliohjelmointokurssilla käytettävä säiliö
